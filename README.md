@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthahasim&label=Profile%20views&color=0e75b6&style=flat" alt="fthahasim" /> </p>
 
-- 📫 How to reach me **www.linkedin.com/in/fathima-thahasim-u-799066245**
+- 📫 How to reach me **www.linkedin.com/in/fathima-thahasim-u**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
